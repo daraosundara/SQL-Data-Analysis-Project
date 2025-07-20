@@ -132,20 +132,11 @@ ORDER BY
 LIMIT 25;
 
 /*
-Focus on Advanced Technologies: High salaries for specialized skills like SVN and Solidity 
-indicate a strong demand for expertise in advanced technologies, particularly blockchain.
-
-Rising Demand for Machine Learning Frameworks: Tools like TensorFlow, PyTorch, and Keras
-are critical, reflecting a growing need for skills in machine learning and AI development.
-
-Data Management Proficiency: Skills in NoSQL databases such as Cassandra and Couchbase are 
-essential for effective data handling, emphasizing the importance of data management in analytics.
-
-Infrastructure and DevOps Skills: Cloud-related skills, notably with Terraform and VMware, highlight 
-the trend of integrating cloud technologies and automation in data solutions.
-
-Versatility in Programming Languages: Familiarity with diverse programming languages, including 
-Golang and Scala, is important for navigating various computational needs in data analysis and development.
+Focus on Advanced Technologies
+Rising Demand for Machine Learning Frameworks
+Data Management Proficiency
+Infrastructure and DevOps Skills
+Versatility in Programming Languages
 */
 
 /*

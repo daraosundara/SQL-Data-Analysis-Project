@@ -21,6 +21,7 @@ I employed the following tools for myanalysis of the data job market
 Visual Studio Code
 - Github
 - Git
+- ChatGPT
 # Analysis
 In this analysis, the point of each query was to investigate specific aspects of the data analyst job market
 ### 1. Top Paying Data Analyst Jobs

@@ -18,7 +18,7 @@ Data was sourced from [Luke Barousse App for Data Nerds](/https://lukebarousse.c
 I employed the following tools for myanalysis of the data job market
 - SQL
 - PostgreSQL
-Visual Studio Code
+- Visual Studio Code
 - Github
 - Git
 - ChatGPT
